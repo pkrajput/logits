@@ -175,3 +175,5 @@ ReAPR-dataset/
 perplexity_results.json
 *.json
 !package.json
+token_surprisal_visualization.html
+token_visualization.html
