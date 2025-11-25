@@ -4,6 +4,10 @@ __pycache__/
 *$py.class
 .env
 
+*.csv
+*.parquet
+*.pkl
+
 # C extensions
 *.so
 
