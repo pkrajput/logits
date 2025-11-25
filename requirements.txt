@@ -1,0 +1,16 @@
+# Core dependencies
+openai>=1.0.0
+numpy
+python-dotenv
+codebleu
+
+# HuggingFace datasets library for Code Contests
+datasets
+huggingface-hub
+
+# Data handling
+pandas
+pyarrow
+
+# For testing and evaluation
+pytest

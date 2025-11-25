@@ -41,6 +41,8 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+Datasets/code_contests/*
+
 # Unit test / coverage reports
 htmlcov/
 .tox/

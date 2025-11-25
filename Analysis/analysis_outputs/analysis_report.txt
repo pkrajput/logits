@@ -1,0 +1,52 @@
+================================================================================
+GPT-4o-mini CODE CONTESTS ANALYSIS REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total problems processed: 100
+Generation errors: 0 (0.0%)
+Valid Python syntax: 99/100 (99.0%)
+Problems with ground truth: 0/100 (0.0%)
+
+SOLUTION CHARACTERISTICS
+--------------------------------------------------------------------------------
+Average lines of code: 27.5
+Average characters: 665.5
+Solutions with imports: 63 (63.6%)
+Solutions with functions: 39 (39.4%)
+Solutions with classes: 1 (1.0%)
+Solutions with loops: 90 (90.9%)
+Solutions with conditionals: 86 (86.9%)
+
+DIFFICULTY DISTRIBUTION
+--------------------------------------------------------------------------------
+                   is_valid_syntax           has_error
+                             count sum  mean       sum
+difficulty_name                                       
+A                               11  11  1.00         0
+B                               11  11  1.00         0
+C                                6   6  1.00         0
+D                               11  11  1.00         0
+E                               13  13  1.00         0
+EASY                             1   1  1.00         0
+EXTERNAL                         2   2  1.00         0
+F                                4   4  1.00         0
+G                                3   3  1.00         0
+H                                1   1  1.00         0
+J                                1   1  1.00         0
+MEDIUM                           3   3  1.00         0
+UNKNOWN_DIFFICULTY              33  32  0.97         0
+
+SOURCE DISTRIBUTION
+--------------------------------------------------------------------------------
+            is_valid_syntax            has_error
+                      count sum   mean       sum
+source_name                                     
+AIZU                     13  12  0.923         0
+ATCODER                  10  10  1.000         0
+CODECHEF                  6   6  1.000         0
+CODEFORCES               61  61  1.000         0
+HACKEREARTH              10  10  1.000         0
+
+================================================================================
